@@ -1,5 +1,5 @@
 # movie-web extension archive
-these are the raw files used for the extension before they were removed from there respective stores.
+these are the raw files used for the extension before they were removed from their respective stores.
 
 ## usage
 ### firefox 
