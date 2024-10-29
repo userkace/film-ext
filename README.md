@@ -16,4 +16,7 @@ these are the raw files used for the extension before they were removed from the
 5. enable extension for your [movie-web instance](https://film.kace.dev).
 
 ## information
-due to the removal of the movie-web extensions from both chromium and firefox stores, i decided to export them so that it can be locally imported and used to run any [movie-web instance](https://film.kace.dev). this software is provided as is and would not be updated nor changed until further notice. viva movie-web.
+due to the removal of the movie-web extensions from both chromium and firefox stores, i decided to export them so that it can be locally imported and used to run any [movie-web instance](https://film.kace.dev). this software is provided as is and would not be updated nor changed until further notice. viva la movie-web.
+
+## instance
+[film.kace.dev](https://film.kace.dev) is my personal instance of movie-web.
